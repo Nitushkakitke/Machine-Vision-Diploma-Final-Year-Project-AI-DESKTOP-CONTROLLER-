@@ -2,6 +2,7 @@ AI Machine Vision Desktop Application
 
 This project is First Prize WINNER In V-TECHNOVATION (State Level Project Competition) and Next Hackathon 2023 
 
+This is a user-friendly application which uses hand gestures to ease the use of power point presentations, also very useful for mute and deaf people as it interprets sign language using datasets given by us. It can replace mouse,Keyboard and all the AI based modules are Integrated in one Application.
 
 
 
